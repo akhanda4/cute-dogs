@@ -4,7 +4,7 @@ let z = document.getElementsByClassName("ar")[0];
 y.innerText="Please wait while the image loads";
 function fn(){
 	setTimeout(function(){
-		z.style.height="350px"
+		z.style.height="400px"
 		y.replaceWith(x);
 	},1500);
 	fetch(`https://dog.ceo/api/breeds/image/random`)

@@ -7,19 +7,15 @@
 }
 .ar{
     margin: auto;
-    width: 1000px;
-    height: 350px;
 }
 img{
 	transform: 1s;
     text-align: center;
-    height: 210px;
-    width: 210px;
+    height: 250px;
+    width: 250px;
 }
 
 .rnv{
-    margin-left: 40%;
-    margin-right: 40%;
     background-color: #462696;
     border-color: #462696;
 }
